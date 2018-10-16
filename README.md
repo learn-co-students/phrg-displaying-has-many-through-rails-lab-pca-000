@@ -35,4 +35,7 @@ You'll need to create all of the migrations, models, routes, controllers, and vi
 
 We've provided a seed file so you can have some data to play around with –– run `rake db:seed` once your migrations and models are complete.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-displaying-has-many-through-rails-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-displaying-has-many-through-rails-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Displaying Has Many Through Rails Lab</p>
