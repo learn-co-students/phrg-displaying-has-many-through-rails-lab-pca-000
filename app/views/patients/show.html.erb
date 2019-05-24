@@ -1,0 +1,5 @@
+<ol><% @patient.appointments.each do |appointment| %>
+   <li><%= appointment.readable_date %></li>
+   <p><%= link_to appointment.doctor.name, doctor_path(appointment.doctor) %></p>
+    <%end%>
+</ol>
